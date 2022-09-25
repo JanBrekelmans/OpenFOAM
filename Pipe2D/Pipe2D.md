@@ -1,6 +1,6 @@
 # Two-dimensional pipe flow
 
-Laminar flow in a pipe with lenth of 2.0 meters, and a diameter of 0.1 meter.
+Laminar flow in a pipe with lenth of 2.0 meters, and a diameter of 0.1 meter.\n
 ![Pipe parameters](assets/pipe2d.jpg)
 
 ## Physical properties
