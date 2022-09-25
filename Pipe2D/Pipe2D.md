@@ -1,7 +1,7 @@
 # Two-dimensional pipe flow
 
 Laminar flow in a pipe with lenth of 2.0 meters, and a diameter of 0.1 meter.
-![Pipe parameters](/assets/pipe2d.jpg)
+![Pipe parameters](assets/pipe2d.jpg)
 
 ## Physical properties
 The fluid flow at the inlet is taken to be 1.0 m/s. The kinematic viscosity is set to 0.001 m^2/s, resulting in a Reynolds number of 100.
