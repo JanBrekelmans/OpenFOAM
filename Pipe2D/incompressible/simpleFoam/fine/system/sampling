@@ -1,0 +1,32 @@
+velocitySampling
+{
+	type sets;
+	libs (“libsampling.so”);
+	enabled true;
+	verbose true;
+	interpolationScheme cellPoint;
+	writeControl timeStep;
+	writeInterval 1;
+	setFormat csv;
+	fields (U p);
+	sets
+	(
+		line1
+		{
+			type uniform;
+			axis z;
+			start (1.7 0.0 0.0);
+			end   (1.7 0.0 0.1);
+			nPoints 20;
+		}
+		
+		line2
+		{
+			type uniform;
+			axis z;
+			start (1.8 0.0 0.0);
+			end   (1.8 0.0 0.1);
+			nPoints 20;
+		}
+	);
+}

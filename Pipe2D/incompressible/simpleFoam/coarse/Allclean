@@ -5,6 +5,7 @@ cd "${0%/*}" || exit                                # Run from this directory
 
 cleanTimeDirectories
 
+rm -rf postProcessing
 rm -rf VTK
 rm -rf ./log ./log.*
 
