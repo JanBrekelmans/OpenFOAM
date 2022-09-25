@@ -19,4 +19,3 @@ The following boundary conditions are defined:<br>
 |TopWall|no slip|zero gradient|
 |Front|empty|empty|
 |Back|empty|empty|
-|---|---|---|
